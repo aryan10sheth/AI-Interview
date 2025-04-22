@@ -6,7 +6,6 @@ An intelligent interview system that conducts and evaluates video interviews usi
 
 - Video interview recording and processing
 - Speech-to-text transcription using Whisper
-- Natural language processing with spaCy
 - Intelligent response evaluation
 - PDF resume parsing
 - Automated question generation based on resume and job description
@@ -17,7 +16,6 @@ An intelligent interview system that conducts and evaluates video interviews usi
 - Python 3.x
 - Flask (Web Framework)
 - OpenAI Whisper (Speech Recognition)
-- spaCy (NLP)
 - PyPDF2 (PDF Processing)
 - NLTK (Natural Language Processing)
 - HTML/CSS/JavaScript (Frontend)
